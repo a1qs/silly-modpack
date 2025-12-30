@@ -1,6 +1,6 @@
 name = "DarkSmelting - RPG Smelt Armor, Tools, Weapons"
 filename = "darksmelting-neoforge-1.21-1.1.7.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "fb660a11b66564299ce72d4926be5cdd42b38298c3f68200db52da1e881656d7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/darksmelting.pw.toml"
-hash = "d5be58fad022636810c2c288173c9ebe189653e489645f8226368dfadc842e94"
+hash = "6fc1a7cc83770a95f325579fb9c9e8962b2c7253369274ef3d64f5a130e9c035"
 metafile = true
 
 [[files]]
@@ -191,6 +196,11 @@ hash = "dc58aac183642c965c2b2fe267fb9f4635988a45ae3a64e73061af7814f3e4a3"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "76eb9bf27dfc86977a8c46d0c1752b39b4dea19c827c0d68faf0c28bed0768eb"
 metafile = true
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/qliphoth-awakening.pw.toml"
 hash = "10980ab095279d494670724442a659fd3cc9fab5f67270fd2c9318326799ebb1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
