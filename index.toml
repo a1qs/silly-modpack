@@ -11,6 +11,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "81e399350b1510d2c9dc82c0fdec1fe6a7b6b0bd69ad9ca6ffc139f6232ff21e"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "105896bd81709c51629f3950e53c41765bc413f6d44edef7e776db8eb8e544b2"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "91ee26814273ff3f2527f9a793cf29d3d18f31e1042d3a6703c4a888b919bcfe"
 metafile = true
 
 [[files]]
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/create-occult-engineering.pw.toml"
+hash = "22434a6616f948f359f56c4ec6d3cc94b511b16dd0edd6484cb0c0adaf20df45"
 metafile = true
 
 [[files]]
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
+metafile = true
+
+[[files]]
+file = "mods/fancy-toasts.pw.toml"
+hash = "3d986266a6f1f884d3786a2354b3458c9999728001e1961da63f31bdede735d8"
 metafile = true
 
 [[files]]
@@ -321,6 +341,11 @@ hash = "d8e6d54237412c135080aebf255787054523c962a154fce1afa8fc3fbb2adfc2"
 metafile = true
 
 [[files]]
+file = "mods/tooltip-overhaul.pw.toml"
+hash = "cb090e705b886d932f86874159175e38ee90f5dc54c3359acc16f1cea86d431f"
+metafile = true
+
+[[files]]
 file = "mods/useful-slime.pw.toml"
 hash = "77fdfc9985de9d35dbe2b049ee24ec49f408d64c8c4b1cbf51e37aaaa18cd20f"
 metafile = true
@@ -333,4 +358,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
 hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "72e1a205fcb059200604689d3a5765a2e314df5216d25b3e5cc48fe407df6356"
 metafile = true
