@@ -156,6 +156,11 @@ hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "8a0271e7d5c8f4badd2886fd9a8ca75c5a33868ac90828cf3b5dbe932025a0fa"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
