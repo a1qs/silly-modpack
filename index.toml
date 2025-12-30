@@ -71,6 +71,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/darksmelting.pw.toml"
+hash = "6fc1a7cc83770a95f325579fb9c9e8962b2c7253369274ef3d64f5a130e9c035"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
@@ -101,6 +106,11 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "c595b64a055d987de9d4ce6156c88eec58cf1b1ade849ff11731307f64a60941"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
 metafile = true
@@ -121,8 +131,18 @@ hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "c7104af995b95c68c28b8425e8a2da698f11500edc4e69056478090982d28915"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "6b3f722168fa57e23fca5441d9b74a11194d9252625d6bf0898c4d212f99380a"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7fbe3225c134e823a07f3aecedace39fe866f327671ecca928f134399b94008d"
 metafile = true
 
 [[files]]
@@ -166,6 +186,11 @@ hash = "27f11f64ea613816bf58ac8f661bdea47402edf6e0060c8137b38b4b32dfcb9f"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "b32898393c0ed300927b98e14c12a29d4334ac9e5395a73884202218a772f281"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
@@ -186,8 +211,18 @@ hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
 
 [[files]]
+file = "mods/occultism.pw.toml"
+hash = "6139320e88063b06752654c37642e9a5102ed5e811a98fae639a2b7842d113dd"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
@@ -236,6 +271,11 @@ hash = "02b3e986422df0ae3ee769ae445ddb1faa53e4314228f6af2eba34fc1fea07ff"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
+metafile = true
+
+[[files]]
 file = "mods/snad.pw.toml"
 hash = "00ef477d75d3fc3fe9891e15a4bf429fe98101284853111b2fe19b5bb6e1a184"
 metafile = true
@@ -278,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "d8e6d54237412c135080aebf255787054523c962a154fce1afa8fc3fbb2adfc2"
+metafile = true
+
+[[files]]
+file = "mods/useful-slime.pw.toml"
+hash = "77fdfc9985de9d35dbe2b049ee24ec49f408d64c8c4b1cbf51e37aaaa18cd20f"
 metafile = true
 
 [[files]]
