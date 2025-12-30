@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "eb7b4a7b28d4806c7bb7a0cf84f4dca90fc5d62317573e9100542bc484a48750"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
@@ -8,4 +13,24 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "c966ea02eb59f31dcaeaebe9d96c9b232a2fb16d2fe971729350e567a4ff1bd7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "08ae2f34e6c0c1e27717ae13cbffe3e0f8efb1dd6b7480abf8cd75f87bde145c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "6d755450264fa4a2afcaea38daa7be2a3f2fb3d0edad588ba7ed0cb4228b0f08"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "d2c42f16fdb32a2b7a2cd8b976ef4d634176d1d25af2b72bae672067083ffdf5"
 metafile = true
