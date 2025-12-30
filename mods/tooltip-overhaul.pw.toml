@@ -1,0 +1,17 @@
+name = "Tooltip Overhaul"
+filename = "tooltipoverhaul-neoforge-1.21.1-1.4.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5ef85b4eb949e84881bf248a4b440ee43ad19400"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7357421
+project-id = 1327508
+
+[option]
+optional = true
+description = "tooltips look a little fancy"
