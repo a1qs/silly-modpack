@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/tanshugetrees/config.txt"
+hash = "fc34529b407997ae5ddd1cf1bfa7b0ff6471145066eee55ce25406dd2224a613"
+
+[[files]]
+file = "config/tanshugetrees/config_worldgen.txt"
+hash = "f92b7f0ef805cecedb4d8625694fd7b9f1eec034d512fbe565ac80bbe611e572"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "6f87edf40bf0be7e7e266f9e2ff0bf7584c6bedff7975bad3259a21a60d1e598"
 metafile = true
