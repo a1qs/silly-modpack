@@ -1,0 +1,13 @@
+name = "Entris: Enchanting Tetris [NeoForge/Fabric/Forge]"
+filename = "entris-neoforge-1.21.1-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "468cc3cdd71251cd90f00e315a8a75852ee993fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5877374
+project-id = 1048573
