@@ -1,13 +1,13 @@
 name = "DarkSmelting - RPG Smelt Armor, Tools, Weapons"
-filename = "darksmelting-neoforge-1.21-1.1.7.jar"
+filename = "darksmelting-forge-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "776d83a5b355683afec7c8034938f326cb808c58"
+hash = "865151a419f4c190fe69a7de55c8c25800754703"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5463685
+file-id = 5041737
 project-id = 908418

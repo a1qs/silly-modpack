@@ -1,13 +1,13 @@
 name = "Qliphoth Awakening"
-filename = "fdbosses-3.0.0-1.21.1.jar"
+filename = "fdbosses-2.0.9.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5afa8ea86ceb51ed44735dd8d0a43173ce392cc4"
+hash = "9e131f4f9db7aa7fe59708d642b04afe09b38fbb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7390399
+file-id = 7234981
 project-id = 1271707
