@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emi.css"
+hash = "ab4344c331e2426edb5c657a45b004350d1e81dfdb32e13fc0648dd31521fd4a"
+
+[[files]]
 file = "config/tanshugetrees/config.txt"
 hash = "fc34529b407997ae5ddd1cf1bfa7b0ff6471145066eee55ce25406dd2224a613"
 
 [[files]]
 file = "config/tanshugetrees/config_worldgen.txt"
-hash = "f92b7f0ef805cecedb4d8625694fd7b9f1eec034d512fbe565ac80bbe611e572"
+hash = "1121c017eb56c265a879462486631486020cb3af9c4436aa8e2c165f1081ebfe"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "344dd132ed81ceff5d5a203ddfbb79e1871d16ec71cb5b63377004730ba1aca4"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "b489db7a4131d93e65352530d95c6244d8ad7305fd6a12fee8dc946fe4bda1d1"
 
 [[files]]
 file = "mods/aether.pw.toml"
