@@ -1,6 +1,6 @@
 name = "Fancy Toasts | Better Advancements"
 filename = "fancytoasts-forge-1.20.1-1.4.5.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7302363
 project-id = 1326436
+
+[option]
+optional = true
+description = "Fancier advancement popups!"

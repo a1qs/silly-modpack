@@ -1,6 +1,6 @@
 name = "Colorwheel Patcher"
 filename = "colorwheel_patcher-forge-1.0.4+mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7397574
 project-id = 1285475
+
+[option]
+optional = true
+description = "Adds compatibility to shaders and flywheel. You want this if you are planning to play with shaders"

@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "1682cde03ab2bda00b879c1fb538404ee3b4e28c4d52980acaf6c2443051de77"
 metafile = true
 
 [[files]]
@@ -122,17 +122,17 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "a24c070e0d9c218c4d286c10d6a77fb845708a1bbd13ca5aa882453674047cbd"
+hash = "6491807aeb7c854baac9abe41737d8a96c0fd7d93c094b1571e996a8b40f944f"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "483473569b2dd584b7536fec935a8f3c1ac008c5421f911d35f539de5b4d05f0"
+hash = "2214950b46f086a51ae311d91b1577148896fa10e6abef842b62b24be472751b"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "d13a6498818900343ba37abb336dbb03dc1b0cb487e3c4a02d9c74474bfdc81e"
+hash = "cd7c04003b44e41f629a02cafb826de0fabed86a98becddd121cdc916337840b"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
-hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
+hash = "b66926151f932f950641ea876a24887366b21aa9d75fb450367a77e74e17e889"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+hash = "5f67ae47eb9b3be6a6d97e2915acee07a1a5c869d61a545bb2d06d70f871b318"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
-hash = "217612c305c4a3d770dec753455d28784e127b2ee2f9527e478c9d57503c0725"
+hash = "b6375fc48588b387ded005490f82800aabc333fb9c085c74c0a5c5221276ecc9"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e1b49409243ca8ccf9d1ef4d458dc1a887a19f9b18dcd5088d56c19073d57b43"
+hash = "cd2236c9f78748f7bce4295a1e30a97898a1936d0db449df8aca4e65fe5b9dda"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-overhaul.pw.toml"
-hash = "1cacce9d22012caaa226a57b7c4c61ea539dd36142ea1862ac93bec1627bc135"
+hash = "beeae180e098a113a8342683fd0e8924fa4d014f388eea51bc4b9b7b4fcd105b"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true
 
 [[files]]
@@ -672,5 +672,5 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "72e1a205fcb059200604689d3a5765a2e314df5216d25b3e5cc48fe407df6356"
+hash = "ca72b4c81486406a0420b970a542cb6efc4c02d7f1cec00d6267bc2ccc8bc578"
 metafile = true

@@ -1,6 +1,6 @@
 name = "Not Enough Animations"
 filename = "notenoughanimations-forge-1.11.1-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7325366
 project-id = 433760
+
+[option]
+optional = true
+description = "Adds animations to various activities such as eating/drinking"
