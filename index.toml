@@ -76,6 +76,11 @@ hash = "8c0f450f657efab9f25ae5bc6dfb6a43aafc0e7e411fea8df2c885593bb67fde"
 metafile = true
 
 [[files]]
+file = "mods/builders-delight-forge.pw.toml"
+hash = "e2dcd2b805038ed6599801440c96cc1d0af19347968793c9e0e8225789ad9f78"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/callable-horses.pw.toml"
 hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
 metafile = true
 
 [[files]]
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "a066f2cd83106ed04fbbd27b40d7ecaf46376eb43e6f86481d782ee8d9ed5335"
 metafile = true
 
 [[files]]
@@ -258,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
 hash = "b6375fc48588b387ded005490f82800aabc333fb9c085c74c0a5c5221276ecc9"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
 metafile = true
 
 [[files]]
@@ -628,6 +648,16 @@ metafile = true
 [[files]]
 file = "mods/voidscape.pw.toml"
 hash = "607057a50307a9da24c04f8371158698fa0a2d2770b9062035ed88228dc96224"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "dcdf0f500fa13b417bd5b410e4b8fe573ac91017cf29230b101cc27495dddc52"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f82a57cb330d48e3adfc46eb9b7fecfaa6e96702292406e6741b3e03e0c6d948"
 metafile = true
 
 [[files]]
