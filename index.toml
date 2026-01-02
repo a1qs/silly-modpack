@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/malum.pw.toml"
 hash = "19821414a26c40c40f4584102cbc73df7282ef1aadf8f948b37f97c6f44a91a3"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "1a11b92ce1ac150064dd9ad7ab0c812891f071bad87ef3d86978368960c8ed70"
 metafile = true
 
 [[files]]
