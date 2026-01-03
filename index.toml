@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -228,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "90484736d203b7fcc858d6f87425bd333326311aa593c75cc53ffb09529d7472"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
 metafile = true
 
 [[files]]
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/expandability.pw.toml"
 hash = "a9c35b5265445218f14be7bce6c01bcaf7f6c3e456e8ef675ae41b3d0298e3a5"
+metafile = true
+
+[[files]]
+file = "mods/explorations.pw.toml"
+hash = "571128da9799a70c8b7c27d31a2c726291602fde9dad7749f78eee6227a68f3b"
 metafile = true
 
 [[files]]
@@ -337,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -487,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
@@ -626,8 +636,18 @@ hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
+file = "mods/terramity.pw.toml"
+hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
+metafile = true
+
+[[files]]
 file = "mods/thaumon.pw.toml"
 hash = "4dcb6364eb099e043d81c42583cf9a8496a97ef32a235a204cf652aaf9e13631"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "71d36ba3272d51193e0ef60153c0058adb46bfb67381c218e0d26251f6a0ce3e"
 metafile = true
 
 [[files]]
