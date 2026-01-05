@@ -58,16 +58,6 @@
 			x: 2.0d
 			y: -16.0d
 		}
-		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by All Rights Reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -16.0d
-		}
 	]
 	order_index: 6
 	quest_links: [ ]

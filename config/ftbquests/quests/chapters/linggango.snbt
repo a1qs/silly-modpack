@@ -13,70 +13,19 @@
 		}
 	}
 	id: "745C2B83DA55CF81"
-	images: [
-		{
-			height: 1.2d
-			image: "customtextures:textures/linggangologo.png"
-			rotation: 0.0d
-			width: 6.0d
-			x: -13.5d
-			y: -9.0d
-		}
-		{
-			height: 1.0d
-			image: "bloodmagic:models/alchemyarrays/wiparray"
-			rotation: 0.0d
-			width: 1.0d
-			x: -13.5d
-			y: -10.5d
-		}
-		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by All Rights Reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -12.5d
-			y: -7.5d
-		}
-	]
+	images: [{
+		height: 1.2d
+		image: "customtextures:textures/linggangologo.png"
+		rotation: 0.0d
+		width: 6.0d
+		x: -13.5d
+		y: -9.0d
+	}]
 	order_index: 13
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["01B7A8A9D9F737CE"]
-			description: [
-				"Spell was always a second thing in Linggango (for most of people) "
-				""
-				"So i have decided to make it use-able by giving people opportunity to make it genunienly powerful!"
-			]
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "levelz:textures/gui/sprites/magic.png"
-				}
-			}
-			icon_scale: 1.25d
-			id: "5FB33243961A651C"
-			shape: "square"
-			size: 1.0d
-			subtitle: "&8[Click to read]"
-			tasks: [{
-				id: "558D2DA2492E4424"
-				title: "finally"
-				type: "checkmark"
-			}]
-			title: "Enhancing Spell Power"
-			x: -13.5d
-			y: -7.5d
-		}
-		{
-			dependencies: [
-				"5FB33243961A651C"
-				"01B7A8A9D9F737CE"
-			]
 			description: [
 				"Eating mana shards increase your irons and ars nouveau spell power significantly!"
 				""
@@ -417,21 +366,6 @@
 				"30E2FD6B069866FB"
 				"01B7A8A9D9F737CE"
 			]
-			id: "7F2357D0E8CD369D"
-			shape: "diamond"
-			tasks: [{
-				id: "237AF2C4BB63E1C2"
-				item: "appmek:creative_chemical_cell"
-				type: "item"
-			}]
-			x: -3.0d
-			y: 4.5d
-		}
-		{
-			dependencies: [
-				"30E2FD6B069866FB"
-				"01B7A8A9D9F737CE"
-			]
 			id: "64AE2207B417F3CA"
 			shape: "diamond"
 			tasks: [{
@@ -520,7 +454,6 @@
 		{
 			dependencies: [
 				"2AB93968D4F809C9"
-				"40A9AC3C939E4E58"
 				"39F48B044487D592"
 				"24C96EA047E80424"
 				"205ED76B12961E9A"
@@ -777,8 +710,8 @@
 				item: "armageddon_mod:poisonous_hand"
 				type: "item"
 			}]
-			x: -7.5d
-			y: -5.5d
+			x: -3.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["01B7A8A9D9F737CE"]
@@ -850,18 +783,6 @@
 		}
 		{
 			dependencies: ["01B7A8A9D9F737CE"]
-			id: "40A9AC3C939E4E58"
-			tasks: [{
-				count: 2L
-				id: "456AFE632DBDFA2E"
-				item: { Count: 2, id: "experienceobelisk:experience_jelly" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: -5.5d
-		}
-		{
-			dependencies: ["01B7A8A9D9F737CE"]
 			id: "2AB93968D4F809C9"
 			tasks: [{
 				count: 2L
@@ -869,7 +790,7 @@
 				item: { Count: 2, id: "minecraft:slime_block" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: -0.5d
 			y: -5.5d
 		}
 	]

@@ -7,17 +7,7 @@
 	hide_quest_until_deps_complete: true
 	icon: "alexscaves:submarine"
 	id: "4C3702E01D31CEEF"
-	images: [{
-		dev: true
-		height: 1.0d
-		hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-		image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-		rotation: 0.0d
-		width: 1.0d
-		x: 2.0d
-		y: -1.5d
-	}]
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{

@@ -14,16 +14,6 @@
 	id: "44F86CB070F12FF2"
 	images: [
 		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.0d
-			y: -18.0d
-		}
-		{
 			height: 1.4d
 			image: "customtextures:textures/artifactslogo.png"
 			rotation: 0.0d
@@ -7314,25 +7304,6 @@
 			y: 2.0d
 		}
 		{
-			id: "758E37FC8E815A47"
-			tasks: [{
-				id: "796492BC3FB1C245"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						Parent: {
-							Items: [ ]
-							Size: 4
-						}
-					}
-					id: "immersiveengineering:powerpack"
-				}
-				type: "item"
-			}]
-			x: -13.5d
-			y: 2.0d
-		}
-		{
 			id: "67727D8227A59643"
 			tasks: [{
 				id: "6061F249C1B796FA"
@@ -7487,7 +7458,7 @@
 				item: "caster_curios_bonus:zephyr_boon"
 				type: "item"
 			}]
-			x: -10.5d
+			x: -13.5d
 			y: 2.0d
 		}
 		{

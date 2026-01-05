@@ -9,17 +9,6 @@
 	id: "3C5A098118F86AE6"
 	images: [
 		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			order: 2
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.0d
-			y: -3.0d
-		}
-		{
 			height: 1.5d
 			image: "customtextures:textures/foolishlogo.png"
 			rotation: 0.0d
@@ -36,7 +25,7 @@
 			y: -3.0d
 		}
 	]
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -340,9 +329,10 @@
 			]
 			icon: {
 				Count: 1
-				id: "ftbquests:custom_icon"
+				id: "reliquary:mob_charm"
 				tag: {
-					Icon: "winteroverhaul:item/green_scarf"
+					Damage: 0
+					entity: "foolish:varmint_king"
 				}
 			}
 			id: "40093DBBE09326CF"
@@ -389,9 +379,10 @@
 			]
 			icon: {
 				Count: 1
-				id: "ftbquests:custom_icon"
+				id: "reliquary:mob_charm"
 				tag: {
-					Icon: "enigmaticdelicacy:item/astral_fruit_slice"
+					Damage: 0
+					entity: "foolish:spawning_astralis"
 				}
 			}
 			id: "5C544D8234970C11"

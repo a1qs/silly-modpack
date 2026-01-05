@@ -54,16 +54,6 @@
 			y: 5.5d
 		}
 		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -5.0d
-		}
-		{
 			dependency: "66B7488E1CB76BBE"
 			height: 1.0d
 			image: "hexerei:textures/book/c_upper.png"
@@ -1991,7 +1981,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["4E79F98D4B6DF6DF"]
+			dependencies: ["7587CE5F525620F9"]
 			description: [
 				"&cIgnis&r is waiting for a opponent, he trained for his all life. How about just show him that his life is pretty much worthless."
 				"&l"
@@ -2026,8 +2016,8 @@
 				value: 1L
 			}]
 			title: "Kill&4&l Ignis"
-			x: 8.0d
-			y: 5.5d
+			x: 9.605565421693413d
+			y: 5.508210817366319d
 		}
 		{
 			dependencies: ["7044D2F80D2E9ED5"]
@@ -2617,61 +2607,6 @@
 			title: "&4&k36&r&l&4he is here&4&k63"
 			x: 2.5d
 			y: 4.0d
-		}
-		{
-			dependencies: ["7587CE5F525620F9"]
-			description: ["{image:customtextures:textures/void.png width:250 height:100 align:center}"]
-			hide_until_deps_complete: false
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "darkdoppelganger:item/doppelganger_ring"
-				}
-			}
-			icon_scale: 1.2d
-			id: "4E79F98D4B6DF6DF"
-			require_sequential_tasks: false
-			rewards: [
-				{
-					id: "351E1C1C01FCE9E7"
-					type: "xp"
-					xp: 2
-				}
-				{
-					id: "2BCB5C0681C34EE1"
-					table_id: 8699295573854160387L
-					title: "&4&lGlorious"
-					type: "random"
-				}
-			]
-			shape: "gear"
-			size: 1.2d
-			subtitle: "Throw the orb to the void."
-			tasks: [
-				{
-					entity: "goety:doppelganger"
-					icon: {
-						Count: 1
-						id: "ftbquests:custom_icon"
-						tag: {
-							Icon: "darkdoppelganger:item/doppelganger_ring"
-						}
-					}
-					id: "301E39957ABB13B4"
-					title: "&cKill&r The Doppelganger"
-					type: "kill"
-					value: 1L
-				}
-				{
-					id: "353A50410A272C1C"
-					item: "darkdoppelganger:shadow_orb"
-					type: "item"
-				}
-			]
-			title: "Kill &cThe Doppelgänger"
-			x: 10.0d
-			y: 5.5d
 		}
 		{
 			dependencies: ["6A721B304A70A1B8"]

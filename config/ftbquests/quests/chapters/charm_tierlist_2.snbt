@@ -58,8 +58,8 @@
 				item: "goety_revelation:ascension_halo"
 				type: "item"
 			}]
-			x: -24.0d
-			y: 0.0d
+			x: -39.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]
@@ -90,7 +90,7 @@
 				item: "goety_revelation:dimensional_will"
 				type: "item"
 			}]
-			x: -25.0d
+			x: -38.0d
 			y: 0.0d
 		}
 		{
@@ -279,8 +279,8 @@
 				item: "armageddon_mod:spelunker_talisman"
 				type: "item"
 			}]
-			x: -25.0d
-			y: 7.0d
+			x: -26.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]
@@ -412,19 +412,6 @@
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]
-			id: "2F117641CC251A86"
-			shape: "netheritetier"
-			subtitle: "A ring forged by the dark entities who tried to mimic you and failed miserably."
-			tasks: [{
-				id: "260BA9F710F0612F"
-				item: "darkdoppelganger:doppelganger_ring"
-				type: "item"
-			}]
-			x: -38.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["02AE79E1837C7B79"]
 			id: "6380C0458E681A28"
 			shape: "netheritetier"
 			subtitle: "Do you dare?"
@@ -526,19 +513,6 @@
 			}]
 			x: -29.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["02AE79E1837C7B79"]
-			id: "209F7447B42C41E2"
-			shape: "netheritetier"
-			subtitle: "After months of hard work, you feel like you've mastered your techniques. You can handle weapons with ease and efficiency!"
-			tasks: [{
-				id: "319A315801954911"
-				item: "enigmaticdelicacy:weapon_charm"
-				type: "item"
-			}]
-			x: -39.0d
-			y: -1.0d
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]
@@ -1201,19 +1175,6 @@
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]
-			id: "40489A518C0A91A0"
-			shape: "irontier"
-			subtitle: "Prove your HUNGER for power to the gods."
-			tasks: [{
-				id: "3242CAA680C78069"
-				item: "enigmaticdelicacy:hungry_charm"
-				type: "item"
-			}]
-			x: -35.0d
-			y: 10.5d
-		}
-		{
-			dependencies: ["02AE79E1837C7B79"]
 			id: "7A8DF0ABD7165401"
 			shape: "irontier"
 			subtitle: "Strip your armor and embrace the true strength of the might golems."
@@ -1639,8 +1600,8 @@
 				}
 				type: "item"
 			}]
-			x: -26.0d
-			y: 0.0d
+			x: -27.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]
@@ -2125,8 +2086,8 @@
 				}
 				type: "item"
 			}]
-			x: -37.0d
-			y: 8.5d
+			x: -35.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["02AE79E1837C7B79"]

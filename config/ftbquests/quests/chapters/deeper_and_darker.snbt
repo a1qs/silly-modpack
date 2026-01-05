@@ -51,10 +51,11 @@
 			y: -1.0d
 		}
 	]
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
+			icon: "minecraft:warden_spawn_egg"
 			icon_scale: 1.4d
 			id: "731C3214BB61FDAE"
 			rewards: [

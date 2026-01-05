@@ -25,16 +25,6 @@
 			y: -7.785714285714285d
 		}
 		{
-			click: "https://discord.gg/linggango"
-			height: 1.0d
-			hover: ["Join Linggango Discord Server!"]
-			image: "ars_nouveau:textures/gui/discord_tab.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.8838077871004941d
-			y: -6.99086999914249d
-		}
-		{
 			height: 3.0d
 			image: "customtextures:textures/linggangologo.png"
 			rotation: 0.0d
@@ -259,7 +249,7 @@
 			}]
 			title: "Keybinds"
 			x: 2.0d
-			y: -4.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["19237C5BA8DDB6AF"]
@@ -334,76 +324,6 @@
 			title: "Combat: &aDodging Attacks"
 			x: 0.0d
 			y: -5.5d
-		}
-		{
-			dependencies: ["19237C5BA8DDB6AF"]
-			description: [
-				"Exposure mods allows you to take pictures and more related features!"
-				""
-				"You can take pictures and develop them using the Lightroom."
-			]
-			icon: "exposure:camera"
-			id: "49A726922A581B85"
-			rewards: [
-				{
-					count: 3
-					id: "2C4118DA8916765D"
-					item: "exposure:black_and_white_film"
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "61E43E91B417A2A5"
-					item: {
-						Count: 1
-						id: "minecraft:potion"
-						tag: {
-							Potion: "minecraft:water"
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "44ADC2FB5BA2D712"
-					item: "minecraft:black_dye"
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "69CEA57A3B8CF4D8"
-					item: "exposure:photograph_frame"
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "67AF4F8B6AEC898F"
-					item: "minecraft:yellow_dye"
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			shape: "pentagon"
-			size: 1.35d
-			subtitle: "Say, Cheeese!"
-			tasks: [
-				{
-					id: "3EC9CB6DE1AE7ECC"
-					item: "exposure:lightroom"
-					type: "item"
-				}
-				{
-					id: "614C9D4964B25E87"
-					item: "exposure:camera"
-					type: "item"
-				}
-			]
-			title: "Capturing Moments"
-			x: 2.0d
-			y: -7.0d
 		}
 		{
 			dependencies: ["19237C5BA8DDB6AF"]
@@ -496,8 +416,8 @@
 				type: "checkmark"
 			}]
 			title: "&bFTB&r Essentials"
-			x: -1.0d
-			y: -4.0d
+			x: 3.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["19237C5BA8DDB6AF"]
@@ -581,8 +501,8 @@
 				type: "checkmark"
 			}]
 			title: "Some Tips and Tricks"
-			x: -7.5d
-			y: -4.5d
+			x: -6.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -607,39 +527,8 @@
 				type: "checkmark"
 			}]
 			title: "Bellows"
-			x: -7.5d
-			y: -6.5d
-		}
-		{
-			dependencies: ["2F61EF4131AB4E54"]
-			description: [
-				"Just throw it into a hole and it will start expanding like crazy!"
-				""
-				"There's other variations check jei to see "
-				""
-				"@hole_filler_mod"
-			]
-			id: "08275C9A2F615AB1"
-			rewards: [
-				{
-					id: "64390F2793DC5660"
-					item: "hole_filler_mod:throwable_hole_filler"
-					type: "item"
-				}
-				{
-					id: "04C7FF14336AE821"
-					type: "xp"
-					xp: 100
-				}
-			]
-			subtitle: "&8[Click to read]"
-			tasks: [{
-				id: "320FF58990BBA41C"
-				item: "hole_filler_mod:throwable_hole_filler"
-				type: "item"
-			}]
 			x: -6.5d
-			y: -6.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -673,8 +562,8 @@
 				}
 			]
 			title: "More Wood With Careful Chopping"
-			x: -5.5d
-			y: -3.5d
+			x: -4.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -701,8 +590,8 @@
 				type: "item"
 			}]
 			title: "&dEnchanting Table"
-			x: -7.5d
-			y: -2.5d
+			x: -6.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["211AA14A943E87B2"]
@@ -730,8 +619,8 @@
 				type: "item"
 			}]
 			title: "&dEnchanting Infuser"
-			x: -7.5d
-			y: -1.5d
+			x: -5.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["7ACC9BE21118707E"]
@@ -758,8 +647,8 @@
 				type: "item"
 			}]
 			title: "&dAdvanced Enchanting Infuser"
-			x: -7.5d
-			y: -0.5d
+			x: -8.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -788,8 +677,8 @@
 				type: "item"
 			}]
 			title: "&aKelp"
-			x: -9.5d
-			y: -2.5d
+			x: -8.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -809,8 +698,8 @@
 				type: "checkmark"
 			}]
 			title: "Shear Vine Tips"
-			x: -5.5d
-			y: -4.5d
+			x: -4.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -828,8 +717,8 @@
 				type: "checkmark"
 			}]
 			title: "Chains Connect Blocks"
-			x: -5.5d
-			y: -6.5d
+			x: -4.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -841,8 +730,8 @@
 				type: "checkmark"
 			}]
 			title: "Pistons Move Tile Entities"
-			x: -8.5d
-			y: -6.5d
+			x: -7.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -861,8 +750,8 @@
 				type: "checkmark"
 			}]
 			title: "Stripping or scraping blocks by dispenser"
-			x: -5.5d
-			y: -1.5d
+			x: -4.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -875,8 +764,8 @@
 				type: "checkmark"
 			}]
 			title: "Placeable Books"
-			x: -9.5d
-			y: -1.5d
+			x: -8.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -889,8 +778,8 @@
 				type: "checkmark"
 			}]
 			title: "Nether Portal Compass"
-			x: -9.5d
-			y: -6.5d
+			x: -8.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -902,8 +791,8 @@
 				item: "minecraft:poisonous_potato"
 				type: "item"
 			}]
-			x: -9.5d
-			y: -3.5d
+			x: -8.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -916,8 +805,8 @@
 				type: "checkmark"
 			}]
 			title: "Zombie Horse Conversion"
-			x: -9.5d
-			y: -4.5d
+			x: -8.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -934,8 +823,8 @@
 				}
 				type: "item"
 			}]
-			x: -8.5d
-			y: -2.5d
+			x: -7.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -964,660 +853,8 @@
 				type: "checkmark"
 			}]
 			title: "Improved Hoes"
-			x: -5.5d
-			y: -5.5d
-		}
-		{
-			dependencies: ["2F61EF4131AB4E54"]
-			id: "2ACA30F07F34EAAE"
-			rewards: [{
-				id: "0221F285F856BD0F"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "goldtier"
-			subtitle: "Anything can be done from your inventory now!"
-			tasks: [
-				{
-					id: "0D77EC2B697D1A90"
-					item: "crafting_on_a_stick:crafting_table"
-					type: "item"
-				}
-				{
-					id: "26A112A27422CCA7"
-					item: "crafting_on_a_stick:loom"
-					type: "item"
-				}
-				{
-					id: "39B36DE1C1F611FC"
-					item: "crafting_on_a_stick:grindstone"
-					type: "item"
-				}
-				{
-					id: "7C1A76177F8EAB99"
-					item: "crafting_on_a_stick:cartography_table"
-					type: "item"
-				}
-				{
-					id: "405220310BAE671B"
-					item: "crafting_on_a_stick:stonecutter"
-					type: "item"
-				}
-				{
-					id: "6C248CC609D4AD13"
-					item: "crafting_on_a_stick:smithing_table"
-					type: "item"
-				}
-				{
-					id: "1442B3C3AB58AE3D"
-					item: "crafting_on_a_stick:anvil"
-					type: "item"
-				}
-			]
-			title: "... On a Stick!"
-			x: -9.5d
-			y: -5.5d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: [
-				"Carry along your &eanimals&r, &eplayers&r and &eNPC&r companions with the two seats on this &aCart&r!"
-				""
-				"Press &6R&r for attach/detach &aCart&r."
-				""
-				"You can take a &aCart&r and hitch it even when you're on horseback."
-			]
-			id: "74A462B597A7261F"
-			rewards: [{
-				id: "2316608829812337"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "Take Your Friend With You!"
-			tasks: [{
-				id: "672DA16D6EC8C9C3"
-				item: "astikorcarts:animal_cart"
-				type: "item"
-			}]
-			x: 2.5d
-			y: 1.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			icon_scale: 1.3d
-			id: "6638F870238681DA"
-			rewards: [{
-				id: "62E9863AA78A3BFE"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "woodtier"
-			subtitle: "Classic, a Horse."
-			tasks: [{
-				id: "7838003346DB1FA1"
-				item: "minecraft:saddle"
-				type: "item"
-			}]
-			x: -1.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: [
-				"Up to a double chests worth!"
-				"One seat on the back."
-				"&6Shift&r + &6Right-Click&r to access the inventory!"
-				""
-				"Press &6R&r for attach/detach &aCart&r."
-				""
-				"You can take a &aCart&r and hitch it even when you're on horseback."
-			]
-			id: "36C98DEFE8AE5788"
-			rewards: [{
-				id: "12541C1B52E0D044"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "Bring Your Storage With You!"
-			tasks: [{
-				id: "175E46E0B647565A"
-				item: "astikorcarts:supply_cart"
-				type: "item"
-			}]
-			x: 2.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			icon: "smallships:oak_brigg"
-			id: "7AD02F2DB1BA49BF"
-			rewards: [{
-				id: "0E3D02A0E729C0D9"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "Large, strong and roomy. The best choice for transporting large quantities of goods."
-			tasks: [{
-				id: "261F189513329210"
-				item: {
-					Count: 1
-					id: "itemfilters:or"
-					tag: {
-						items: [
-							{
-								Count: 1b
-								id: "smallships:oak_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:spruce_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:birch_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:jungle_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:acacia_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:cherry_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:dark_oak_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:mangrove_brigg"
-							}
-							{
-								Count: 1b
-								id: "smallships:bamboo_brigg"
-								tag: { }
-							}
-						]
-					}
-				}
-				title: "Any Brigg"
-				type: "item"
-			}]
-			title: "Brigg"
-			x: 1.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			icon: "smallships:oak_galley"
-			id: "44E52343316A0E3E"
-			rewards: [{
-				id: "3E2E4E68C2A6BBF6"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "Incredibly fast boat, will take you to any end of the world in the blink of an eye."
-			tasks: [{
-				id: "54518E360DE44D01"
-				item: {
-					Count: 1
-					id: "itemfilters:or"
-					tag: {
-						items: [
-							{
-								Count: 1b
-								id: "smallships:oak_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:spruce_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:birch_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:jungle_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:acacia_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:cherry_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:dark_oak_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:mangrove_galley"
-							}
-							{
-								Count: 1b
-								id: "smallships:bamboo_galley"
-								tag: { }
-							}
-						]
-					}
-				}
-				title: "Any Galley"
-				type: "item"
-			}]
-			title: "Galley"
-			x: 0.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			icon: "smallships:oak_cog"
-			id: "6CD570DC491EF0D9"
-			rewards: [{
-				id: "04000219EDA172BB"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "An excellent maneuverable boat for travel."
-			tasks: [{
-				id: "056D34205B2584A3"
-				item: {
-					Count: 1
-					id: "itemfilters:or"
-					tag: {
-						items: [
-							{
-								Count: 1b
-								id: "smallships:mangrove_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:bamboo_cog"
-								tag: { }
-							}
-							{
-								Count: 1b
-								id: "smallships:oak_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:spruce_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:birch_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:jungle_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:acacia_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:cherry_cog"
-							}
-							{
-								Count: 1b
-								id: "smallships:dark_oak_cog"
-							}
-						]
-					}
-				}
-				title: "Any Cog"
-				type: "item"
-			}]
-			title: "Cog"
-			x: -0.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: [
-				"It is also capable of transporting a sufficient amount of cargo."
-				""
-				"&aShields&r, also with banner patterns, can be attached to grant additional defense."
-				""
-				"With its icebreaker ability, it proves to be a promising vessel in cold and icy oceans."
-			]
-			icon: "smallships:oak_drakkar"
-			id: "0F656E8DCB02F45D"
-			rewards: [{
-				id: "50538BFBD3E4AA41"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "The Drakkar is specifically designed for cold water environments, capable of breaking ice in its path."
-			tasks: [{
-				id: "15F4CA213391B1A0"
-				item: {
-					Count: 1
-					id: "itemfilters:or"
-					tag: {
-						items: [
-							{
-								Count: 1b
-								id: "smallships:oak_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:spruce_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:birch_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:jungle_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:acacia_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:cherry_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:dark_oak_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:mangrove_drakkar"
-							}
-							{
-								Count: 1b
-								id: "smallships:bamboo_drakkar"
-								tag: { }
-							}
-						]
-					}
-				}
-				title: "Any Drakkar"
-				type: "item"
-			}]
-			title: "Drakkar"
-			x: 2.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			id: "70E3889C56F1D9AC"
-			rewards: [{
-				id: "7CEC24E0F3E15A93"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "A normal rail with faster maximum speed"
-			tasks: [{
-				id: "4687B5BF5D76F7DF"
-				item: "minecraft:rail"
-				type: "item"
-			}]
-			x: -1.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["70E3889C56F1D9AC"]
-			id: "41540BBB45B52838"
-			rewards: [{
-				id: "3F5F67F96EEFC839"
-				type: "xp"
-				xp: 25
-			}]
-			shape: "irontier"
-			subtitle: "Powered with redstone, faster than a normal rail but can't turn or slope"
-			tasks: [{
-				id: "071E2A89C5112615"
-				item: "minecraft:powered_rail"
-				type: "item"
-			}]
-			x: -2.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: ["Slower, but with two seats. Quite easy to maneuver, with acceptable speed thanks to the engine in the back."]
-			id: "479F5EE637931DF5"
-			rewards: [{
-				id: "1FF4D8CFD5E75FE3"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Calm and safe"
-			tasks: [{
-				id: "5223FA949EC2745C"
-				item: "immersive_aircraft:airship"
-				type: "item"
-			}]
-			x: 1.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: ["An advanced version of the airship, it can carry a large number of items."]
-			id: "55FAE20E07CDC9C9"
-			rewards: [{
-				id: "79C3600ACC8A6EA1"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Safe and calm and BIG"
-			tasks: [{
-				id: "783C5BB6D0A35A5F"
-				item: "immersive_aircraft:cargo_airship"
-				type: "item"
-			}]
-			x: 2.498133205578597d
-			y: 1.9533247888539975d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: ["Sturdy, has 3 seats, and a bunch of weapon options"]
-			id: "02674AD6B512CA57"
-			rewards: [{
-				id: "24EF32F471BF24A5"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Safe and Harmful"
-			tasks: [{
-				id: "1BB3FF3DB83BA907"
-				item: "immersive_aircraft:warship"
-				type: "item"
-			}]
-			x: 2.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: ["A masterwork of engineering! Four propellers strapped on a bunch of bamboos. It's quite handy for building."]
-			id: "66DA4E60A9F14084"
-			rewards: [{
-				id: "26B82124D6F7189F"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Building is way easier!"
-			tasks: [{
-				id: "165B3FA6A3CC1CDF"
-				item: "immersive_aircraft:quadrocopter"
-				type: "item"
-			}]
-			x: 0.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: ["Fast, one seat, medium difficulty. Make sure you have somewhere flat to take off and land on!"]
-			id: "3A643C9F794E6B0C"
-			rewards: [{
-				id: "02CF47F95D93964C"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Classic plane."
-			tasks: [{
-				id: "28CC36B4CF226782"
-				item: "immersive_aircraft:biplane"
-				type: "item"
-			}]
-			title: "Biplane"
-			x: -1.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			id: "1AA85B5B81D6332B"
-			rewards: [{
-				id: "40390B896D53BBA1"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Enchaned biplane"
-			tasks: [{
-				id: "25E8EF1EE23DACB2"
-				item: "man_of_many_planes:scarlet_biplane"
-				type: "item"
-			}]
-			x: -1.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			id: "62CC0AC15AB8074A"
-			rewards: [{
-				id: "0335689D3F12C5A5"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Easy to make, not that good."
-			tasks: [{
-				id: "60F69D9897A589B1"
-				item: "man_of_many_planes:economy_plane"
-				type: "item"
-			}]
-			x: -0.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: [
-				"Elytra allows you to float in the sky!"
-				""
-				"With fireworks and some artifacts you can also get a huge speed boost."
-			]
-			icon_scale: 1.3d
-			id: "164AAAAD6433695A"
-			rewards: [{
-				id: "76CCA1961E4B4829"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "netheritetier"
-			subtitle: "Classic"
-			tasks: [{
-				id: "3196A1C9052406E5"
-				item: {
-					Count: 1
-					id: "minecraft:elytra"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			title: "Elytra"
-			x: -1.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: ["Human-powered primitive dual seater. Trusty and easy to maneuver, yet not the fastest. Needs a good initial push to get the rotor spinning."]
-			id: "51AEDA51AC0D8F9B"
-			rewards: [{
-				id: "4C99F1C790626CAF"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "irontier"
-			subtitle: "Not the brightest.."
-			tasks: [{
-				id: "07EA7B8F8DAF0E36"
-				item: "immersive_aircraft:gyrodyne"
-				type: "item"
-			}]
-			x: -1.5d
-			y: 1.0d
-		}
-		{
-			description: ["Travel methods for land and sea. There's also wagons that i didn't mention.. take a look in EMI"]
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:textures/gui/info_icon.png"
-				}
-			}
-			icon_scale: 1.4d
-			id: "7652B74B3DA4A030"
-			rewards: [{
-				id: "56EC6D6ADC01BBB3"
-				type: "xp"
-				xp: 5
-			}]
-			shape: "square"
-			size: 1.35d
-			subtitle: "&8[Click to read]"
-			tasks: [{
-				id: "6D0559BF8949654A"
-				title: "Okay!"
-				type: "checkmark"
-			}]
-			title: "Traveling"
-			x: 0.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7652B74B3DA4A030"]
-			description: [
-				"Put a shovel or a hoe and witness the magic!"
-				""
-				"Press &6R&r for attach/detach &aCart&r."
-				""
-				"You can take a &aCart&r and hitch it even when you're on horseback."
-			]
-			id: "5BD8A9E3305A4D18"
-			rewards: [{
-				id: "7415C381793A2062"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "For other purposes"
-			tasks: [{
-				id: "32B563BCFB4B6F94"
-				item: "astikorcarts:plow"
-				type: "item"
-			}]
-			x: 2.5d
-			y: 0.0d
+			x: -4.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["7A545E5DF48EDB9B"]
@@ -1756,8 +993,8 @@
 				item: "enchlibathome:library"
 				type: "item"
 			}]
-			x: -5.5d
-			y: -2.5d
+			x: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2F61EF4131AB4E54"]
@@ -1768,8 +1005,8 @@
 				item: "enchlibathome:ender_library"
 				type: "item"
 			}]
-			x: -6.5d
-			y: -2.5d
+			x: -5.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["1E486494B5164856"]
@@ -1820,49 +1057,8 @@
 				}
 			]
 			title: "Beautiful Wind Chimes"
-			x: 10.0d
-			y: -5.0d
-		}
-		{
-			dependencies: ["1E486494B5164856"]
-			description: ["Pigsteel can be found in nether!"]
-			id: "168D30D8F6F2BA88"
-			rewards: [{
-				id: "0F5594EDB026B38B"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "Decorative Enhancements"
-			tasks: [
-				{
-					id: "5F334AC23E98FBA4"
-					item: "pigsteel:pigsteel_lantern"
-					type: "item"
-				}
-				{
-					id: "01B42AA2F77F9BA7"
-					item: "pigsteel:refined_pigsteel"
-					type: "item"
-				}
-				{
-					id: "118D8854BD17B730"
-					item: "pigsteel:cut_pigsteel"
-					type: "item"
-				}
-				{
-					id: "0AD6DE96227FDB9F"
-					item: "pigsteel:cut_pigsteel_stairs"
-					type: "item"
-				}
-				{
-					id: "628F8253025732B9"
-					item: "pigsteel:cut_pigsteel_slab"
-					type: "item"
-				}
-			]
-			title: "Pigsteel Blocks"
-			x: 7.5d
-			y: -3.0d
+			x: 9.0d
+			y: -5.5d
 		}
 		{
 			description: [
@@ -1911,20 +1107,8 @@
 				type: "checkmark"
 			}]
 			title: "Building"
-			x: 8.5d
-			y: -4.5d
-		}
-		{
-			dependencies: ["1E486494B5164856"]
-			icon_scale: 1.2d
-			id: "1EFBECD22303FE11"
-			tasks: [{
-				id: "5E9893195F701063"
-				item: "hole_filler_mod:throwable_hole_filler"
-				type: "item"
-			}]
-			x: 10.0d
-			y: -4.0d
+			x: 7.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["1E486494B5164856"]
@@ -1998,44 +1182,8 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
-			y: -3.0d
-		}
-		{
-			dependencies: ["1E486494B5164856"]
-			description: [
-				"With global marketplace (free btw) you can find nearly any idea without adding new mods! "
-				""
-				"You can also design your very own furniture if u are not satisfied with public marketplace!"
-				""
-				"In order to craft those furnitures you will need \"crafting material\" to build them."
-			]
-			hide_text_until_complete: false
-			id: "4F548353D70DCCC2"
-			rewards: [
-				{
-					id: "7C0C661FFB63EC68"
-					type: "xp"
-					xp: 100
-				}
-				{
-					count: 5
-					id: "651BE39B39006EFE"
-					item: "immersive_furniture:crafting_material"
-					type: "item"
-				}
-			]
-			shape: "heart"
-			size: 1.3d
-			subtitle: "&8[Click to read]"
-			tasks: [{
-				id: "3A4AC011F563FDB7"
-				item: "immersive_furniture:artisans_workstation"
-				type: "item"
-			}]
-			title: "The Greatest Furniture Mod!"
 			x: 8.5d
-			y: -2.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["1E486494B5164856"]
@@ -2054,8 +1202,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: -5.0d
+			x: 6.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["09064FBADD382415"]
@@ -2074,8 +1222,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: -6.5d
+			x: 6.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["17B86EC69507C90C"]
@@ -2094,8 +1242,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
-			y: -6.5d
+			x: 7.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["6F2EEED9173AE2BF"]
@@ -2113,8 +1261,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: -6.5d
+			x: 9.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2B2818B92F01C51F"]
@@ -2125,8 +1273,8 @@
 				item: "magnumtorch:diamond_magnum_torch"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -4.5d
+			x: 5.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["1E486494B5164856"]
@@ -2137,8 +1285,8 @@
 				item: "magnumtorch:amethyst_magnum_torch"
 				type: "item"
 			}]
-			x: 7.0d
-			y: -4.0d
+			x: 6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["6F0F41043EF524B9"]
@@ -2149,8 +1297,8 @@
 				item: "magnumtorch:emerald_magnum_torch"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -6.0d
+			x: 5.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["19237C5BA8DDB6AF"]

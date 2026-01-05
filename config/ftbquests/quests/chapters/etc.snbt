@@ -12,16 +12,6 @@
 		}
 	}
 	id: "644793D444A57D97"
-	images: [{
-		dev: true
-		height: 1.0d
-		hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-		image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-		rotation: 0.0d
-		width: 1.0d
-		x: 0.0d
-		y: 0.0d
-	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -75,8 +65,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: -2.0d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["0F7C91873C1F3B5E"]
@@ -99,35 +89,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["0F7C91873C1F3B5E"]
-			description: ["&eA mod&r &cthat&r &fwill&r &3let&r &1you&r &adraw&r &4your&r &cown&r &fpaintings&r &9and&r &6display&r &3them&r &cin&r &dyour&r &ahouse."]
-			icon: "xercapaint:item_easel"
-			id: "387AAF488E39C70C"
-			rewards: [
-				{
-					id: "22A618C8301E66E4"
-					type: "xp"
-					xp: 100
-				}
-				{
-					id: "2142BF58F488AFFB"
-					item: "xercapaint:item_easel"
-					type: "item"
-				}
-			]
-			subtitle: "&8[Click to read]"
-			tasks: [{
-				id: "67407617A34886D8"
-				title: "OMG!"
-				type: "checkmark"
-			}]
-			title: "&aI&r &cam&r &da&r &eArtist!&r"
-			x: 1.0d
-			y: 0.0d
+			x: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["0F7C91873C1F3B5E"]
@@ -152,8 +115,8 @@
 				type: "checkmark"
 			}]
 			title: "&2I&r &eam&r &da&r &3Musician!"
-			x: 1.5d
-			y: -1.0d
+			x: 1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["0F7C91873C1F3B5E"]
@@ -171,8 +134,8 @@
 				type: "checkmark"
 			}]
 			title: "Enderman Head"
-			x: 1.5d
-			y: -2.0d
+			x: 1.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["0F7C91873C1F3B5E"]
@@ -191,8 +154,8 @@
 				type: "checkmark"
 			}]
 			title: "Skull Pikes"
-			x: 1.0d
-			y: -3.0d
+			x: -1.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["0F7C91873C1F3B5E"]
@@ -223,26 +186,8 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
+			x: 0.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["0F7C91873C1F3B5E"]
-			description: ["its really dangerous.. shoot it at your friends base"]
-			id: "5D85A5C5E373EE18"
-			rewards: [{
-				id: "1ADF1094254617AB"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "Dangerous.."
-			tasks: [{
-				id: "22CE02C5D28AE6B1"
-				item: "orbital_railgun:orbital_railgun"
-				type: "item"
-			}]
-			x: -1.0d
-			y: -3.0d
 		}
 	]
 	subtitle: ["You are bored? Check here!"]

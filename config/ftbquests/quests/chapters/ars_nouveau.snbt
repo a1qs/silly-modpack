@@ -14,16 +14,6 @@
 	id: "6AEDA2F9BEB57759"
 	images: [
 		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.0d
-			y: 1.0d
-		}
-		{
 			height: 1.0d
 			image: "ars_nouveau:block/fire_0"
 			rotation: 0.0d

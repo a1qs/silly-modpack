@@ -72,14 +72,6 @@
 			y: 6.038108107637855d
 		}
 		{
-			height: 0.5d
-			image: "infinitybuttons:textures/particle/diamond_sparkle.png"
-			rotation: 0.0d
-			width: 0.5d
-			x: 4.431610590343155d
-			y: 4.400012869542621d
-		}
-		{
 			height: 1.0d
 			image: "galosphere:textures/particle/amethyst_rain1.png"
 			rotation: 0.0d
@@ -118,32 +110,6 @@
 			width: 1.0d
 			x: 4.785714285714285d
 			y: -3.6785714285714306d
-		}
-		{
-			height: 0.5d
-			image: "infinitybuttons:textures/particle/diamond_sparkle.png"
-			rotation: 0.0d
-			width: 0.5d
-			x: 5.89589630462887d
-			y: 2.073822393352147d
-		}
-		{
-			height: 0.5d
-			image: "infinitybuttons:textures/particle/diamond_sparkle.png"
-			rotation: 0.0d
-			width: 0.5d
-			x: 2.89589630462887d
-			y: 2.2214414409711907d
-		}
-		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by all rights reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.0d
-			y: -14.5d
 		}
 		{
 			height: 3.0d
@@ -594,7 +560,7 @@
 				""
 				"Anyways, we need to kill this boss in order to get a required material."
 			]
-			icon: "plushie_buddies:plushie_elder_guardian"
+			icon: "minecraft:elder_guardian_spawn_egg"
 			icon_scale: 1.4d
 			id: "57734015B3527500"
 			rewards: [{
@@ -608,7 +574,7 @@
 			subtitle: "&8[Click to read]"
 			tasks: [{
 				entity: "minecraft:elder_guardian"
-				icon: "plushie_buddies:plushie_elder_guardian"
+				icon: "minecraft:elder_guardian_spawn_egg"
 				id: "40460A4AA013F52B"
 				title: "&cKill&r The Elder Guardian"
 				type: "kill"
@@ -1390,7 +1356,7 @@
 				""
 				"It resides a strange and worrying fauna that reacts to sounds. Don't make too much noise or you might wake it up."
 			]
-			icon: "plushie_buddies:plushie_warden"
+			icon: "minecraft:warden_spawn_egg"
 			icon_scale: 1.4d
 			id: "706326297CA26190"
 			rewards: [{

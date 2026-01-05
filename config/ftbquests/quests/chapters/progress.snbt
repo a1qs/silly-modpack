@@ -85,7 +85,7 @@
 			image: "minecraft:item/netherite_ingot"
 			rotation: 0.0d
 			width: 1.0d
-			x: -2.0d
+			x: -4.0d
 			y: -11.5d
 		}
 		{
@@ -120,16 +120,6 @@
 			width: 1.0d
 			x: -9.0d
 			y: -5.5d
-		}
-		{
-			dev: true
-			height: 1.0d
-			hover: ["Questlines belong to me, and is protected by All Rights Reserved. Do not try to steal without an explicit permission from me."]
-			image: "fancymenu:textures/buddy/gui/button_close_normal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -10.0d
-			y: -13.0d
 		}
 		{
 			dependency: "19F19149E61D93AD"
@@ -484,7 +474,7 @@
 			y: -10.5d
 		}
 		{
-			dependencies: ["177DFA9CBE995173"]
+			dependencies: ["2EAC826E47A3A682"]
 			description: [
 				"&cZoranth&r is a fierce warrior, he used to fight against the nether army."
 				""
@@ -526,8 +516,8 @@
 				type: "item"
 			}]
 			title: "Accessing The Netherite"
-			x: -2.0d
-			y: -10.5d
+			x: -3.9962767705238065d
+			y: -10.520120578264837d
 		}
 		{
 			dependencies: ["2B69C369F7D0B25C"]
@@ -963,8 +953,8 @@
 				value: 1L
 			}]
 			title: "Kill&c The Ender Dragon"
-			x: -2.0d
-			y: -7.5d
+			x: -2.031991056238084d
+			y: -8.912977721121976d
 		}
 		{
 			dependencies: ["297F31BB6030C00F"]
@@ -1803,51 +1793,6 @@
 			}]
 			x: 2.5d
 			y: -9.0d
-		}
-		{
-			dependencies: ["2EAC826E47A3A682"]
-			description: [
-				"You may be asking: Why the suddenly i have to go to the Undergarden?"
-				""
-				"The reason is simple! Crafting the next required boss item needs &cUtherium&r which can be only obtained through &8undergarden."
-				""
-				"To enter the Undergarden, you must construct a portal frame using Stone Bricks, similar to a Nether gateway. However, instead of lighting it with a standard lighter, a special Catalyst is required to ignite the portal."
-				""
-				"&8Check the full questline if interested."
-			]
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "undergarden:item/catalyst"
-				}
-			}
-			icon_scale: 1.4d
-			id: "177DFA9CBE995173"
-			rewards: [{
-				id: "6C98D7D21F87CB1A"
-				item: "minecraft:diamond"
-				type: "item"
-			}]
-			shape: "gear"
-			size: 1.25d
-			subtitle: "&8[Click to read]"
-			tasks: [
-				{
-					id: "41289FFD0ABAA8ED"
-					item: "undergarden:catalyst"
-					type: "item"
-				}
-				{
-					count: 14L
-					id: "232508158C48AB56"
-					item: "minecraft:stone_bricks"
-					type: "item"
-				}
-			]
-			title: "Undergarden!"
-			x: -4.0d
-			y: -10.5d
 		}
 		{
 			id: "7E73ED46222113B3"
