@@ -1,0 +1,13 @@
+name = "Good Lookin' Ground"
+filename = "good_lookin_ground.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "867cbd41d71c282e53be2eac8aa8b2d4f3283ce1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7190406
+project-id = 1360339

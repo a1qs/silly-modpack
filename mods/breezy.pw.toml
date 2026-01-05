@@ -1,0 +1,13 @@
+name = "Breezy"
+filename = "breezy-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c62277338b9ab8430af9c6e33474460a9efd765"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5443848
+project-id = 690628

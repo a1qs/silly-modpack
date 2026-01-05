@@ -1,0 +1,13 @@
+name = "Ocean Lily Pad Village"
+filename = "ocean_lily_pad_village-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c15407462e8a8ea6ee1e39cdb0634ccc46f92fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7278574
+project-id = 1394882

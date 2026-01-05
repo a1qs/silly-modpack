@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#470 dreamwoods:blooming_grove
+#697 dreamwoods:boskage
+#56E dreamwoods:flowering_fields
+#294 windswept:lavender_fields
+#08E dreamwoods:morass
+#4F1 minecraft:ocean
+#7DB dreamwoods:redwood_forest
+#5FF minecraft:river
+#5E0 dreamwoods:temperate_hemlock_rainforest

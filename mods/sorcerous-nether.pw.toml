@@ -1,0 +1,13 @@
+name = "Sorcerous Nether"
+filename = "SorcerousNether-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25e3091ff609408ecb01a226dc5ef068af225c35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7147313
+project-id = 1350406

@@ -1,0 +1,20 @@
+{
+  "parent": "bettercombat:claymore",
+  "attributes": {
+    "attack_range": 4.25,
+     "attacks": [
+      {
+        "swing_sound" : { 
+          "id" : "simplyswords:elemental_sword_ice_attack_01"}
+      },
+    {
+        "swing_sound" : { 
+          "id" : "simplyswords:elemental_sword_ice_attack_03"}
+      },
+      {
+        "swing_sound" : { 
+          "id" : "simplyswords:elemental_sword_ice_attack_02"}
+      }
+    ]
+  }
+}

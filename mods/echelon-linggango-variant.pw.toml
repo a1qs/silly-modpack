@@ -1,0 +1,13 @@
+name = "Echelon - Linggango Variant"
+filename = "Echelon-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98aa96757320cf817f78f1103e95f45b16314329"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7344551
+project-id = 1401279

@@ -1,0 +1,13 @@
+name = "Cuter: Mutant Monsters"
+filename = "cuter_mmonsters.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72b1aac8cb10a96b7a6d7b430c685642d1ef2a89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7175817
+project-id = 1376805

@@ -1,0 +1,13 @@
+name = "MCreator Integration For Harvest Level Tweaker"
+filename = "mcreator_htl_integration-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a9d7fb53a89d021ba5a1fd3678aa584e16120f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7331192
+project-id = 1404252

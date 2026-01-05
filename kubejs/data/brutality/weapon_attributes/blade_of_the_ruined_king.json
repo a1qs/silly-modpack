@@ -1,0 +1,21 @@
+{
+    "parent": "bettercombat:double_axe",
+  "attributes": {
+    "pose": "weapon:pose_big_katana_animated",
+    "attack_range": 4.5,
+   "attacks": [
+      {
+        "swing_sound" : { "id" : "bosses_of_mass_destruction:comet_shoot"},
+        "pitch": 0.5
+      },
+      {
+        "swing_sound" : { "id" : "bosses_of_mass_destruction:comet_shoot"},
+        "pitch": 0.5
+      },
+      {
+        "swing_sound" : { "id" : "bosses_of_mass_destruction:comet_shoot"},
+        "pitch": 0.5
+      }
+    ]
+  }
+}

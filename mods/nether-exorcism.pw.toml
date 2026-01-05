@@ -1,0 +1,13 @@
+name = "Nether Exorcism Reborn"
+filename = "nethers_exorcism_reborn-1.1.3Beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "207c6b8047d751c2ba90b587a5deb4adba25c057"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6874615
+project-id = 925095

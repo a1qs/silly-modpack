@@ -1,0 +1,13 @@
+name = "Kind of Nice Weapon"
+filename = "weapon-0.1.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc63e9d1820e37821712a64605a83a73e6c35489"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7102445
+project-id = 1301815

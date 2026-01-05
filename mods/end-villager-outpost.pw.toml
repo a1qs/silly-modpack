@@ -1,0 +1,13 @@
+name = "End Villager Outpost"
+filename = "end_villager_outpost-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4989918c04f52f3c9f2503f4c1074bd0944df3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6964719
+project-id = 1341317

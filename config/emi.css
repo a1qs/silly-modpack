@@ -9,7 +9,7 @@
 	/**
 	 * Whether cheating in items is enabled.
 	 */
-	cheat-mode: true;
+	cheat-mode: false;
 
 	/**
 	 * How much EMI should use tooltips and popups to show controls and information.
@@ -19,7 +19,7 @@
 	/**
 	 * Where EMI should pull stacks from to populate the index.
 	 */
-	index-source: registered;
+	index-source: creative;
 
 	/**
 	 * Which sidebar should be searched using the search bar.
@@ -88,7 +88,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -177,7 +177,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 6, 5;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -192,7 +192,7 @@
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
 	 */
-	left-sidebar-header: visible;
+	left-sidebar-header: invisible;
 
 	/**
 	 * Which theme to use for the left sidebar
@@ -212,12 +212,12 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 12, 17;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 2, 2, 2, 2;
+	right-sidebar-margins: 1, 1, 1, 1;
 
 	/**
 	 * Where to position the right sidebar
@@ -425,7 +425,7 @@
 	/**
 	 * Delete the stack in the cursor when hovering the index
 	 */
-	delete-cursor-stack: "key.mouse.left";
+	delete-cursor-stack: "key.keyboard.unknown";
 
 	/**
 	 * Copies the hovered recipe's ID to the clipboard

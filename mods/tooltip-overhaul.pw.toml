@@ -1,17 +1,13 @@
 name = "Tooltip Overhaul"
-filename = "tooltipoverhaul-forge-1.20.1-1.4.0.jar"
-side = "client"
+filename = "tooltipoverhaul-fabric-1.20.1-1.3.0.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "144718a8920cc18d434dbc9bc1901bc50fff07ae"
+hash = "a4b9a5b08d28514e62830b9f2125a2af4c0f93d8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7357419
+file-id = 7096298
 project-id = 1327508
-
-[option]
-optional = true
-description = "Fancier tooltips!"

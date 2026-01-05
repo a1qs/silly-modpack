@@ -1,0 +1,13 @@
+name = "Ember's Underground Rooms - Forge / Fabric"
+filename = "underground_rooms-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e318cd03c978ad9ed2473f95e90d063c54134787"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7361661
+project-id = 1197753

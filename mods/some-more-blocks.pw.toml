@@ -1,0 +1,13 @@
+name = "Some More Blocks"
+filename = "SomeMoreBlocks@forge-1.20.1-1.0.7-bp.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "491b8b73527aa7ef4f8caa131691673db0b4c8a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7220891
+project-id = 982529

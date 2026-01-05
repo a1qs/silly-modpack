@@ -1,0 +1,13 @@
+name = "Modded Coffee GUI"
+filename = "ModdedCoffeeGUI_Release_v1.0.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "640137135d056a2b1594c87e4e169c20fcf4e76e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7262813
+project-id = 1378757

@@ -1,0 +1,13 @@
+name = "Linggango Textures"
+filename = "LinggangoTextures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1c91766b6ea3bca6f73d130e73c9d275fd8321c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7367703
+project-id = 1381088

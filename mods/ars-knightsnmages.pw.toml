@@ -1,0 +1,13 @@
+name = "Ars Knights'n'Mages"
+filename = "knightsnmages-0.0.7-neo.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c3b0902609d5d921a7df7d026c771aa2e6c807e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5041066
+project-id = 914713

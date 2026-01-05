@@ -1,0 +1,13 @@
+name = "Powah Pyxal-ated"
+filename = "Powah_Pyxal-ated_0.2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8527fae1190f16f33665ad43a9622be5ed369f09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7221198
+project-id = 1250388

@@ -1,0 +1,13 @@
+name = "Armors Enhanced"
+filename = "§6Armors Enhanced§8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4cdc2e6709d85bdca0dddf416f08aa18879b065d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7184628
+project-id = 1378333

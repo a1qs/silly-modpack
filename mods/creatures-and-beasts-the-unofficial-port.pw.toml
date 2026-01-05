@@ -1,0 +1,13 @@
+name = "Creatures and Beasts: The Unofficial Port"
+filename = "CNB-1.20.1-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77307f6bc8f35e22d8bebcb4c0b3e0393fbbfdf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7310130
+project-id = 1197295

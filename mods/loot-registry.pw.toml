@@ -1,0 +1,13 @@
+name = "Loot Registry"
+filename = "emi_loot_registry-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a6110daacd3090b52c94d57d6dfe1113586d623"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7373026
+project-id = 1410600

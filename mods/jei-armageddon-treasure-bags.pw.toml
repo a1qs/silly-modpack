@@ -1,0 +1,13 @@
+name = "[JEI] Armageddon Treasure Bags"
+filename = "armageddon_jei-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c383880b5019ddcc35df9bfa3b29e541cf713df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7294661
+project-id = 1396885

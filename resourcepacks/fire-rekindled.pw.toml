@@ -1,0 +1,13 @@
+name = "Fire Rekindled (PBR Supported)"
+filename = "Fire_Rekindled.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d16b1caebf70359025c10ff9631f5b0bfb9fc23e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5427995
+project-id = 557454

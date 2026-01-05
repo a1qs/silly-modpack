@@ -1,0 +1,13 @@
+name = "dodo's mobs"
+filename = "Dodos Mobs 1.0.1 beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7aca799fe6c25d0fc6bdbbdf0515b13be737413d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7018547
+project-id = 1349823

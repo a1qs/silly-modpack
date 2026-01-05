@@ -1,0 +1,13 @@
+name = "Cataclysmic tunes"
+filename = "Cataclysmic_tunes_V8(Maledictus_update).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f3d902374f757d5086ad1857b8d63a1fb57c60a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7276096
+project-id = 989768

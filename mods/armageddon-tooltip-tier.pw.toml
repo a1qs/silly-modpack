@@ -1,0 +1,13 @@
+name = "Armageddon Tooltip Hint"
+filename = "armageddon_tooltip_tier-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "834ace0e81dc9614b7eaccb8a2d7d1db14ad0d01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7355581
+project-id = 1409277

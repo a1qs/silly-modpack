@@ -1,0 +1,13 @@
+name = "T.O Magic 'n Extras Reimagined"
+filename = "Traveloptics_Reimagined.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bc148c54585751ad5664f3807d73f8931b33fd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7237472
+project-id = 1378270

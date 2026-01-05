@@ -1,0 +1,13 @@
+name = "Foolish Unofficial Patch"
+filename = "foolishfixmod-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e722e5b8511884ccd8083887a9c460d42bc31df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359225
+project-id = 1408462

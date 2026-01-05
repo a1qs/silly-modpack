@@ -1,0 +1,13 @@
+name = "Dreamwoods"
+filename = "dreamwoods-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce7a3cbd7727d90c8484786341e94049faf8edcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6776058
+project-id = 1219645

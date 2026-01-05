@@ -1,0 +1,13 @@
+name = "Farcr's Re-Crafted"
+filename = "Farcr's Re-Crafted V2.24.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5913f24105b383d35809b0db0fbd65a3105b3e46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7163486
+project-id = 396744

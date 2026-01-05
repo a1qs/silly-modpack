@@ -1,0 +1,13 @@
+name = "Diversity!"
+filename = "diversity-forge-1.20.1-2.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "037f3870343ca8e7d215c270cfc03afbf8d7b37c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7130442
+project-id = 1039632

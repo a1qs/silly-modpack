@@ -1,0 +1,13 @@
+name = "BiomeSpy"
+filename = "biomespy-1.3.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "459978dd890f6b259893e7c67bc003f28d051d1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7267945
+project-id = 1376024

@@ -1,0 +1,13 @@
+name = "Animus"
+filename = "animus-3.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0a9a109efe1b81d81f79ca4f65aaad6f1a4e946"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7366270
+project-id = 229664

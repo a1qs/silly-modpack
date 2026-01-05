@@ -1,0 +1,13 @@
+name = "Performance Tweaks"
+filename = "perf_tweaks-1.0.1;ac;ec;ro.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c7aed8b42e509153ad8c4bf832b7cbe52548eec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6282561
+project-id = 1194310

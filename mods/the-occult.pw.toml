@@ -1,0 +1,13 @@
+name = "The Occult"
+filename = "occult-alpha-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35bd09d3a61017e56b2295456f527216fad358be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5783329
+project-id = 1111440

@@ -1,0 +1,13 @@
+name = "Dungeon Revival"
+filename = "dungeons_revival-1.0.5.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a6e9f28210a56a4ad1bf2fa34e35b5f9ff499bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5921830
+project-id = 1133677
