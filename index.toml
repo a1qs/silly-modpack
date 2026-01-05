@@ -6238,11 +6238,6 @@ hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
-metafile = true
-
-[[files]]
 file = "mods/capybaras-mod.pw.toml"
 hash = "780d51c58dc8947f4b9aab487890605cc6d7ace0d0d62ea0c6f70fab2cccd229"
 metafile = true
