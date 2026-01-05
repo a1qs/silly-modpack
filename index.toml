@@ -4609,10 +4609,6 @@ file = "kubejs/data/forbidden_arcanus/forbidden_arcanus/hephaestus_forge/ritual/
 hash = "e2a68c9b6acc587709dabdd14cd9bf21e5ddd92362baff499cae254cccaf0f1d"
 
 [[files]]
-file = "kubejs/data/forbidden_arcanus/forbidden_arcanus/hephaestus_forge/ritual/creativemechem.json"
-hash = "4d76e90804434371272d369b4f3d14bbaa046809ee4de47ec0c56f963f103960"
-
-[[files]]
 file = "kubejs/data/forbidden_arcanus/forbidden_arcanus/hephaestus_forge/ritual/creativemefe.json"
 hash = "dc263a126d66697457a5605239d4ad38982a0ac969bc61773a3641d90df91bf7"
 
